@@ -17,5 +17,15 @@ namespace QuickBuy.Dominio.Entidades.ObjetoDeValor
         {
             get { return Id == (int)TipoFormaPagamentoEnum.CartaoCredito ; }
         }
+
+        public bool EhDeposito
+        {
+            get { return Id == (int)TipoFormaPagamentoEnum.Deposito; }
+        }
+
+        public bool NaoFoiDefinido
+        {
+            get { return Id == (int)TipoFormaPagamentoEnum.NaoDefinido; }
+        }
     }
 }
