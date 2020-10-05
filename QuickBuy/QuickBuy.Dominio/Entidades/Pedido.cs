@@ -11,6 +11,7 @@ namespace QuickBuy.Dominio.Entidades
         public int Senha { get; set; }
         public DateTime DataPedido {get; set;}
         public int UsuarioId { get; set; }
+        public virtual Usuario Usuario { get; set; }
         public DateTime DataPrevisaoEntrega { get; set; }
         public string CEP { get; set; }
         public string Estado { get; set; }
@@ -23,6 +24,7 @@ namespace QuickBuy.Dominio.Entidades
 
         //pode haver pelo menos um pedido a vários
         public ICollection<ItemPedido> ItensPedido { get; set; }
+        public object Id { get; set; }
 
         public override void Validate()
         {

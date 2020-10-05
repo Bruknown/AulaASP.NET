@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace QuickBuy.Dominio.Contratos
+﻿namespace QuickBuy.Dominio.Contratos
 {
-    interface IPedidoRepositorio
+    public interface IPedidoRepositorio
     {
+
     }
 }

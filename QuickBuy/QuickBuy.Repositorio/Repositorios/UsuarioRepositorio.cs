@@ -1,11 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using QuickBuy.Dominio.Contratos;
+using QuickBuy.Dominio.Entidades;
 
 namespace QuickBuy.Repositorio.Repositorios
 {
-    public class UsuarioRepositorio
+    public class UsuarioRepositorio : BaseRepositorio<Usuario>, IUsuarioRepositorio
     {
+        public UsuarioRepositorio()
+        {
+                
+        }
     }
 }
+    
