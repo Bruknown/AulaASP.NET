@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\concent\\Desktop\\aulaBruno\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\concent\\Desktop\\aulaBruno\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\concent\\Desktop\\aulaBruno\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+        "projectName": "QuickBuy.Dominio",
+        "projectPath": "C:\\Users\\concent\\Desktop\\aulaBruno\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+        "packagesPath": "C:\\Users\\concent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\concent\\Desktop\\aulaBruno\\QuickBuy\\QuickBuy.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\concent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\concent\\Downloads\\v11.5.4_ibm_entityframework_core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

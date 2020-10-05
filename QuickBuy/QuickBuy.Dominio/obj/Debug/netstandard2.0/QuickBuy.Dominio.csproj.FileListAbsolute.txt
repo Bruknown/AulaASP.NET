@@ -1,0 +1,8 @@
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.deps.json
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.dll
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.pdb
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.csprojAssemblyReference.cache
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.AssemblyInfoInputs.cache
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.AssemblyInfo.cs
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.dll
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.pdb
