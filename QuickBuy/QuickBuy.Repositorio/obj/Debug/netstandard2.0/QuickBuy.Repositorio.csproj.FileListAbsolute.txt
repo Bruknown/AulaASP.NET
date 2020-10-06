@@ -1,0 +1,11 @@
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\obj\Debug\netstandard2.0\QuickBuy.Repositorio.csprojAssemblyReference.cache
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\obj\Debug\netstandard2.0\QuickBuy.Repositorio.AssemblyInfoInputs.cache
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\obj\Debug\netstandard2.0\QuickBuy.Repositorio.AssemblyInfo.cs
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\bin\Debug\netstandard2.0\QuickBuy.Repositorio.deps.json
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\bin\Debug\netstandard2.0\QuickBuy.Repositorio.dll
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\bin\Debug\netstandard2.0\QuickBuy.Dominio.dll
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\bin\Debug\netstandard2.0\QuickBuy.Dominio.pdb
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\obj\Debug\netstandard2.0\QuickBuy.Repositorio.csproj.CopyComplete
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\obj\Debug\netstandard2.0\QuickBuy.Repositorio.dll
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\bin\Debug\netstandard2.0\QuickBuy.Repositorio.pdb
+C:\Users\concent\Desktop\aulaBruno\QuickBuy\QuickBuy.Repositorio\obj\Debug\netstandard2.0\QuickBuy.Repositorio.pdb

@@ -1,6 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using QuickBuy.Dominio.Contratos;
-using QuickBuy.Dominio.Entidades;
 using System;
 
 namespace QuickBuy.Web.Controllers
