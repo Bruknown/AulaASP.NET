@@ -24,7 +24,7 @@ namespace QuickBuy.Dominio.Entidades
 
         //pode haver pelo menos um pedido a vários
         public virtual ICollection<ItemPedido> ItensPedido { get; set; }
-        public object Id { get; set; }
+        public int Id { get; set; }
 
         public override void Validate()
         {
