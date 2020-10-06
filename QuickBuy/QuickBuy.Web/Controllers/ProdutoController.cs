@@ -19,7 +19,7 @@ namespace QuickBuy.Web.Controllers
         {
             try
             {
-                return Ok();
+                return Ok(_produtoRepositorio.ObterTodos());
 
             }
             catch(Exception ex)

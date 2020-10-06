@@ -8,36 +8,36 @@ namespace QuickBuy.Repositorio.Migrations
         {
             migrationBuilder.InsertData(
                 table: "FormaPagamento",
-                columns: new[] { "Id", "Descricao", "Nome" },
-                values: new object[] { 1, "Forma de pagamento boleto", "Boleto" });
+                columns:        new[]           { "Id", "Descricao", "Nome" },
+                values:         new object[]    { 1, "Forma de pagamento boleto", "Boleto" });
 
             migrationBuilder.InsertData(
                 table: "FormaPagamento",
-                columns: new[] { "Id", "Descricao", "Nome" },
-                values: new object[] { 2, "Forma de pagamento por cartão de credito", "Cartão de credito" });
+                columns:        new[]           { "Id", "Descricao", "Nome" },
+                values:         new object[]    { 2, "Forma de pagamento por cartão de credito", "Cartão de credito" });
 
             migrationBuilder.InsertData(
                 table: "FormaPagamento",
-                columns: new[] { "Id", "Descricao", "Nome" },
-                values: new object[] { 3, "Forma de pagamento deposito", "Deposito" });
+                columns:        new[]           { "Id", "Descricao", "Nome" },
+                values:         new object[]    { 3, "Forma de pagamento deposito", "Deposito" });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DeleteData(
-                table: "FormaPagamento",
-                keyColumn: "Id",
-                keyValue: 1);
+                table:      "FormaPagamento",
+                keyColumn:  "Id",
+                keyValue:   1);
 
             migrationBuilder.DeleteData(
-                table: "FormaPagamento",
-                keyColumn: "Id",
-                keyValue: 2);
+                table:      "FormaPagamento",
+                keyColumn:  "Id",
+                keyValue:   2);
 
             migrationBuilder.DeleteData(
-                table: "FormaPagamento",
-                keyColumn: "Id",
-                keyValue: 3);
+                table:      "FormaPagamento",
+                keyColumn:  "Id",
+                keyValue:   3);
         }
     }
 }

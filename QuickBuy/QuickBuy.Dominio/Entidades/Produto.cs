@@ -2,7 +2,6 @@
 {
     public class Produto : Entidade
     {
-        public int Senha { get; set; }
         public string Nome { get; set; }
         public string Descricao { get; set; }
         public decimal Preco { get; set; }
@@ -10,7 +9,14 @@
 
         public override void Validate()
         {
-            throw new System.NotImplementedException();
+            if (string.IsNullOrEmpty(Nome))
+            {
+                AdicionarCritica("Nome do produto não foi encontrado");
+            }
+            if (string.IsNullOrEmpty(Descricao))
+            {
+                AdicionarCritica("descrição não foi encontrada");
+            }
         }
     }
 }

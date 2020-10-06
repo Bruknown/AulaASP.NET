@@ -14,8 +14,8 @@ namespace QuickBuy.Repositorio.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    Nome = table.Column<string>(maxLength: 50, nullable: false),
-                    Descricao = table.Column<string>(maxLength: 100, nullable: false)
+                    Nome        = table.Column<string>(maxLength: 50, nullable: false),
+                    Descricao   = table.Column<string>(maxLength: 100, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -94,9 +94,9 @@ namespace QuickBuy.Repositorio.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    ProdutoId = table.Column<int>(nullable: false),
-                    Quantidade = table.Column<int>(nullable: false),
-                    PedidoId = table.Column<int>(nullable: true)
+                    ProdutoId   = table.Column<int>(nullable: false),
+                    Quantidade  = table.Column<int>(nullable: false),
+                    PedidoId    = table.Column<int>(nullable: true)
                 },
                 constraints: table =>
                 {
